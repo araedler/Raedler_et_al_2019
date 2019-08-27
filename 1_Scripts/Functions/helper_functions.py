@@ -1,7 +1,7 @@
 '''
 Created on 17.02.2017
 
-@author: n340032
+@author: Anja T. Rädler
 '''
 
 import os
